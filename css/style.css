@@ -1,0 +1,30 @@
+footer{
+	text-align: center;
+	background-color: #4E5766;
+	color: #fff;
+	padding: 20px 0px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+header{
+	text-align: center;
+	background-color: #4E5766;
+	color: #fff;
+	padding: 20px 0px;
+}
+body{
+	background-color: #ededed;
+}
+.pattern{
+	background-image: url("../img/p1.jpg");
+	padding: 50px;
+}
+.patternB{
+	background-image: url("../img/p2.jpg");
+	padding: 50px;
+}
+.patternC{
+	background-image: url("../img/p3.jpg");
+	padding: 50px;
+}
